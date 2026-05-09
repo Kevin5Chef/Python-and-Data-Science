@@ -1,7 +1,7 @@
 # Data Preprocessing, Feature Engineering, and Machine Learning-Ready Data Pipelines
 ### A Technical Reference on Missing Value Imputation, Encoding, Outlier Treatment, Feature Scaling, Chunked Processing, and Data Validation
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Data Preprocessing, Feature Engineering, Scikit-learn, Pandas, Applied Machine Learning Pipelines
 **Status:** Demonstrative & Applied
 
