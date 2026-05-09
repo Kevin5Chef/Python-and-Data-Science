@@ -1,7 +1,7 @@
 # Data Analysis with Pandas and NumPy — Descriptive Statistics, Exploratory Analysis, Missing Value Detection, and Memory Optimization
 ### A Technical Reference on Statistical Computation, Univariate Analysis, Data Quality Assessment, and DataFrame Memory Management
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Data Analysis, Pandas, NumPy, Exploratory Data Analysis, Data Engineering
 **Status:** Demonstrative & Applied
 
