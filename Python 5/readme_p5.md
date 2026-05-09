@@ -1,7 +1,7 @@
 # Data Visualization with Matplotlib and Seaborn — Charts, Plots, Outlier Detection, and Correlation Analysis
 ### A Technical Reference on Bar Charts, Scatter Plots, Line Graphs, Box Plots, Count Plots, Heatmaps, and Applied Visual Analytics
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Data Visualization, Matplotlib, Seaborn, Statistical Graphics, Applied Analytics
 **Status:** Demonstrative & Applied
 
